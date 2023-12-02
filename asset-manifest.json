@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/react-profile/static/css/main.f855e6bc.css",
-    "main.js": "/react-profile/static/js/main.5d6b6e6a.js",
+    "main.css": "/react-profile/static/css/main.015a6755.css",
+    "main.js": "/react-profile/static/js/main.b4f60d5b.js",
     "static/js/787.534964c5.chunk.js": "/react-profile/static/js/787.534964c5.chunk.js",
-    "static/media/logo.svg": "/react-profile/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/fmb-logo-white.svg": "/react-profile/static/media/fmb-logo-white.32d52d577a22ae294d56c835e616da35.svg",
+    "static/media/fmb-logo-dark.svg": "/react-profile/static/media/fmb-logo-dark.9f105b21957eafdf3eb8b1e1c28fb0d2.svg",
     "index.html": "/react-profile/index.html",
-    "main.f855e6bc.css.map": "/react-profile/static/css/main.f855e6bc.css.map",
-    "main.5d6b6e6a.js.map": "/react-profile/static/js/main.5d6b6e6a.js.map",
+    "main.015a6755.css.map": "/react-profile/static/css/main.015a6755.css.map",
+    "main.b4f60d5b.js.map": "/react-profile/static/js/main.b4f60d5b.js.map",
     "787.534964c5.chunk.js.map": "/react-profile/static/js/787.534964c5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.5d6b6e6a.js"
+    "static/css/main.015a6755.css",
+    "static/js/main.b4f60d5b.js"
   ]
 }
